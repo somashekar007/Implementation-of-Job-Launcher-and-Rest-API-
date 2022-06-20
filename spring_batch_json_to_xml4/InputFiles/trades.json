@@ -1,0 +1,13 @@
+[
+ {"id":1,"name":"Preetam","age":23,"address":"Jabalpur"},
+ {"id":2,"name":"Raja","age":35,"address":"Bhopal"},
+ {"id":3,"name":"Praveen","age":19,"address":"Hyderabad"},
+ {"id":4,"name":"Srikant","age":18,"address":"Nashik"},
+ {"id":5,"name":"Preetam","age":23,"address":"Jabalpur"},
+ {"id":6,"name":"Raja","age":35,"address":"Bhopal"},
+ {"id":7,"name":"Praveen","age":19,"address":"Hyderabad"},
+ {"id":8,"name":"Srikant","age":18,"address":"Nashik"},
+ {"id":11,"name":"Raja","age":35,"address":"Bhopal"},
+ {"id":12,"name":"Praveen","age":19,"address":"Hyderabad"},
+ {"id":13,"name":"Srikant","age":18,"address":"Nashik"}
+]
